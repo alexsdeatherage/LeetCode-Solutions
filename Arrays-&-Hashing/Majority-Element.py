@@ -1,6 +1,7 @@
 # Input: List of integers
 # Output: Integer, representing majority element
 # Example: [2, 1, 3, 3, 3] -> 3
+from typing import List
 from collections import Counter
 
 class Solution:
